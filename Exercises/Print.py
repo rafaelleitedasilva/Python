@@ -1,0 +1,6 @@
+print("Olá, Mundo!")
+print("Esse é o programa",2)
+print("Olá")
+print("Mundo")
+print("Olá \nMundo")
+help(print)
